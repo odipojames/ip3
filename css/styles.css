@@ -3,3 +3,21 @@
   padding: 50px;
   text-align: center;
 }
+.after-top{
+  background-color:#E5E5E5;
+  padding: 15px;
+}
+
+#first-row{
+  background-color: #84C290;
+  margin-left: -10px;
+}
+
+#second-row{
+  background-color: #E5E5E5;
+  margin-right:-250px;
+
+}
+.row{
+  border: 0px;
+}
