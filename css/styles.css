@@ -10,14 +10,24 @@
 
 #first-row{
   background-color: #84C290;
-  margin-left: -10px;
+
 }
 
 #second-row{
   background-color: #E5E5E5;
-  margin-right:-250px;
+
 
 }
 .row{
   border: 0px;
+}
+h5{
+  color: #F2E1B5;
+}
+
+h6{
+  color: white;
+}
+#green{
+  color: blue;
 }
