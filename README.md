@@ -1,8 +1,8 @@
 ##pingPong game
 ###developed by Odipo James
 ##pingPong is a web application game which detects if the number is divisible by 3,5 and both. The user should enter the number in a text box lebaled "enter number here" and clicck on the button "ping-Pong".
-### THe app will pic the number entered by the user and return the following results: ping for the number divisible by 3,pong for number divisible by 5 and pingPong for number divisible by both.Not:It prints from 1 up to number entered by user in a list.
-###The user should run this****link to use the application and make sure s/he is connected to internet
+### THe app will pick the number entered by the user and return the following results: ping for the number divisible by 3,pong for number divisible by 5 and pingPong for number divisible by both.Not:It prints from 1 up to number entered by user in a list.
+###The user should run this https://odipojames.github.io/ip3/ link to use the application and make sure s/he is connected to internet
 #####if experiencing any difficulty in accessing and playing the pingPong pleas find a solution at 0707371208 or odipojames@gmail.com
 ####                                 Apache License
   Version 2.0, January 2004
