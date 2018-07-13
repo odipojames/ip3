@@ -1,37 +1,41 @@
-.top{
-  background-image: url('img/ping.jpg');
+.top {
+  background-image: url('../img/ping.jpg');
   background-color: #F2E1B5;
   padding: 50px;
-  text-align: center;
 }
-.after-top{
-  background-color:#E5E5E5;
+
+.after-top {
+  background-color: #E5E5E5;
   padding: 15px;
 }
 
-#first-row{
+#first-row {
   background-color: #84C290;
   padding-bottom: 170px;
   text-align: justify;
-
 }
 
-#second-row{
+#second-row {
   background-color: #E5E5E5;
   padding-bottom: 340px;
-
-
 }
-.row{
+
+.row {
   border: 0px;
 }
-h5{
+
+h5 {
   color: #F2E1B5;
 }
 
-h6{
+h6 {
   color: white;
 }
-#green{
+
+#green {
   color: blue;
+}
+#img{
+  width: 100px;
+  height: 100px;
 }
