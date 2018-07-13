@@ -1,12 +1,16 @@
 .top {
-  background-image: url('../img/ping.jpg');
+  background-image: url('../img/top.jpeg');
   background-color: #F2E1B5;
   padding: 50px;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 
 .after-top {
   background-color: #E5E5E5;
   padding: 15px;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 
 #first-row {
@@ -22,6 +26,8 @@
 
 .row {
   border: 0px;
+  margin-left:60px;
+  margin-right: 60px;
 }
 
 h5 {
@@ -35,7 +41,8 @@ h6 {
 #green {
   color: blue;
 }
-#img{
+
+#img {
   width: 100px;
   height: 100px;
 }

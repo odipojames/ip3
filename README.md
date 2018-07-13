@@ -5,7 +5,7 @@
 ###The user should run this****link to use the application and make sure s/he is connected to internet
 #####if experiencing any difficulty in accessing and playing the pingPong pleas find a solution at 0707371208 or odipojames@gmail.com
 ####                                 Apache License
-                           Version 2.0, January 2004
+  Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
