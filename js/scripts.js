@@ -5,10 +5,9 @@ $(document).ready(function(){
     event.preventDefault();
     var n = parseInt($('input#digit').val());
     var outPut= pingPong(n);
-    console.log(n);
-      $("#result").text(outPut);
-  });
-});
+
+  })
+})
 
 var pingPong = function(n) {
 
@@ -16,13 +15,14 @@ var pingPong = function(n) {
     var po = 'Pong';
     for(i=1; i <= n; i++)
         if(i % 15===0){
-          console.log(pi + po);
-        }else if(i % 5){
-          console.log(po);
-        }else if(i % 3){
-          console.log(pi);
+        var li="<li>"+ pi+po+"</li>"
+        }else if(i % 5===0){
+          var li="<li>"+po+"</li>"
+        }else if(i % 3===0){
+        var li="<li>"+ pi+"</li>"
         }  else{
-              console.log(i);
+            var li="<li>"+i+"</li>"
         }
-    return;
+    
+  $("#result").append(li);
 }
